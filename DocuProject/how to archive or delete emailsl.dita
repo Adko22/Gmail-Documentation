@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_delete_mails_in_gmail">
+    <title>How to archive or delete emails </title>
+    <shortdesc>Here you will learn how to delete or archive mails.</shortdesc>
+    <taskbody>
+        <context><p>You will learn how to clean your inbox. </p><p>Now you will have a clearer view
+                of your desired mails.</p><p>Archived email move out of your inbox but stay under
+                All mail, so that you can find them later. Deleted email move to the Trash and get
+                permanently deleted after 30 days.</p><image
+                href="file:/C:/Users/User/Desktop/GmailDocu/unnamed%20(1).png"
+                id="image_cwq_jwq_xpb"/></context>
+        <steps>
+            <step>
+                <cmd>Select one or more email.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the select box on the mail you wish to select</cmd>
+            </step>
+            <step>
+                <cmd>At the top, click Archive or Delete.</cmd>
+            </step>
+            <step>
+                <cmd>You can point to a single email and click Archive or Delete.</cmd>
+            </step>
+        </steps>
+        <result id="result_hh4_txq_xpb">
+            <p>You have successfully deleted and archived your desired mails. </p>
+        </result>
+        <example id="example_c4k_t2r_xpb">
+            <p>You can clean your unwanted mail so that your inbox is not full.</p>
+        </example>
+    </taskbody>
+</task>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_write_an_e_mail_in_gmail">
+    <title>How to write an email</title>
+    <shortdesc>Here you will learn how to write an e-mail in Gmail.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ak2_kxq_xpb">
+            <p>You will have to own a Gmail account, know how to work with an internet browser.</p>
+        </prereq>
+        <context><p>You will learn how to create and send emails to the people you wish to
+                communicate with.</p><image
+                href="file:/C:/Users/User/Desktop/GmailDocu/Untitled.png" id="image_sb4_hwq_xpb"
+            /></context>
+        <steps>
+            <step>
+                <cmd>Open Gmail </cmd>
+            </step>
+            <step>
+                <cmd>On the left, click on Compose</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) To change your window size, in the upper corner, click Maximize ""
+                    or Exit full screen .</cmd>
+            </step>
+            <step>
+                <cmd>Enter your message. Email you start writing but don't send are automatically
+                    saved in Drafts on the left..</cmd>
+            </step>
+            <step>
+                <cmd>Optional) Add attachments, such as Drive files e using Drive or photos .</cmd>
+            </step>
+            <step>
+                <cmd>Click Send.</cmd>
+            </step>
+        </steps>
+        <result id="result_hfx_zsq_xpb">
+            <p>You have successfully written and sent the mail.</p>
+        </result>
+        <example id="example_vh2_xdr_xpb">
+            <p>You can send emails to communicate with friends or colleagues.</p>
+        </example>
+    </taskbody>
+</task>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_manage_your_spam_folder_in_gmail">
+    <title>How to find an email in your inbox</title>
+    <shortdesc>Here you will learn how to find the desired mail in your inbox.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_sxv_yzq_xpb">
+            <p>You need to know your search criteria.</p>
+        </prereq>
+        <context><p>You will learn how to find the mail you have searched for.</p><image
+                href="file:/C:/Users/User/Desktop/GmailDocu/unnamed%20(2).png"
+                id="image_mxn_swq_xpb"/></context>
+        <steps>
+            <step>
+                <cmd>Open Gmail.</cmd>
+            </step>
+            <step>
+                <cmd>At the top, in the search box, enter your search criteria.</cmd>
+            </step>
+            <step>
+                <cmd>Press Enter.</cmd>
+            </step>
+        </steps>
+        <result id="result_vll_yxq_xpb">
+            <p>You have successfully found your desired mail.</p>
+        </result>
+        <example id="example_d5g_dfr_xpb">
+            <p>You can search your inbox for wanted mails.</p>
+        </example>
+    </taskbody>
+</task>

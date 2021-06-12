@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Gmail</title>
+    <topicref href="what_is_gmail.dita"/>
+    <topicref href="how%20to%20register%20in%20gmail.dita"/>
+    <topicref href="how%20to%20write%20an%20email.dita"/>
+    <topicref href="how%20to%20reply%20to%20an%20email.dita"/>
+    <topicref href="how%20to%20archive%20or%20delete%20emailsl.dita"/>
+    <topicref href="how%20to%20find%20an%20email%20in%20your%20inbox.dita"/>
+</map>

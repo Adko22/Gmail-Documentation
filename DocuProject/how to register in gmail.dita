@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_register_in_gmail">
+    <title>How to register in Gmail</title>
+    <shortdesc>Here you will learn how to register in Gmail.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xbs_wyq_xpb">
+            <p>You need to have an internet connection.</p>
+            <p>You need to have basic computer skills.</p>
+        </prereq>
+        <context>
+            <p>You will learn how to register in Gmail.</p>
+            <p>Now you will  able to send emails.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open your browser.</cmd>
+            </step>
+            <step>
+                <cmd>Go to www.google.com.</cmd>
+            </step>
+            <step>
+                <cmd>Click on "Gmail" on top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Click on create an account.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your credentials.</cmd>
+            </step>
+        </steps>
+        <result id="result_avz_tyq_xpb">
+            <p>You have successfully created an account in Gmail.</p>
+        </result>
+        <example id="example_eb3_qdr_xpb">
+            <p>You can create an account in Gmail if you need to send emails to other people as it's
+                one of the best email providers.</p>
+        </example>
+    </taskbody>
+</task>

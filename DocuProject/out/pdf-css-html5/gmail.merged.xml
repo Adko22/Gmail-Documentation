@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/D:/Oxygen/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Oxygen/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Oxygen/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Oxygen/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Oxygen/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/D:/DocuProject/gmail.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Gmail</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Gmail</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_gmail"><resourceid appid="what_is_gmail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Gmail</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         <image class="- topic/image " href="file:/D:/../../../../../C:/Users/User/Desktop/GmailDocu/download.png" placement="inline"/></shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_register_in_gmail"><resourceid appid="how_to_register_in_gmail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to register in Gmail</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to register in Gmail.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_write_an_e_mail_in_gmail"><resourceid appid="how_to_write_an_e_mail_in_gmail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to write an email</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to write an e-mail in Gmail.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_attach_a_file_in_your_mail"><resourceid appid="how_to_attach_a_file_in_your_mail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to reply to an email</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to reply to an email.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_delete_mails_in_gmail"><resourceid appid="how_to_delete_mails_in_gmail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to archive or delete emails </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to delete or archive mails.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_manage_your_spam_folder_in_gmail"><resourceid appid="how_to_manage_your_spam_folder_in_gmail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to find an email in your inbox</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to find the desired mail in your inbox.</shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_gmail" oid="what_is_gmail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Gmail</ph></title>
+    <shortdesc class="- topic/shortdesc ">
+        <image class="- topic/image " href="file:/C:/Users/User/Desktop/GmailDocu/download.png" id="unique_1_Connect_42_image_fxy_p1r_xpb" nd:nd-id="image_fxy_p1r_xpb" placement="inline"/></shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">With Gmail, your email is stored safely in the cloud. You can get to messages from any
+            computer or device with a web browser. If your administrator allows, you can join or
+            start a video meeting in Google Meet right from Gmail. Add Google Chat to your Gmail
+            inbox and get all the features of Chat directly in Gmail. You can also quickly organize
+            and find important email, as well as read and draft email without an internet
+            connection.</p>
+        <p class="- topic/p "> </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">What you need:</b></p>
+        <p class="- topic/p ">10 minutes</p>
+        <p class="- topic/p ">Get Gmail: Web (mail.google.com), Android, or iOS</p>
+    </conbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " format="html" href="http://www.gmail.com" scope="external"/>
+        <link class="- topic/link " format="html" href="https://en.wikipedia.org/wiki/Gmail" scope="external"/>
+    </related-links>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_register_in_gmail" oid="how_to_register_in_gmail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to register in Gmail</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to register in Gmail.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_xbs_wyq_xpb" nd:nd-id="prereq_xbs_wyq_xpb">
+            <p class="- topic/p ">You need to have an internet connection.</p>
+            <p class="- topic/p ">You need to have basic computer skills.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will learn how to register in Gmail.</p>
+            <p class="- topic/p ">Now you will  able to send emails.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open your browser.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to www.google.com.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on "Gmail" on top right corner.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on create an account.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your credentials.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_avz_tyq_xpb" nd:nd-id="result_avz_tyq_xpb">
+            <p class="- topic/p ">You have successfully created an account in Gmail.</p>
+        </result>
+        <example class="- topic/example " id="unique_2_Connect_42_example_eb3_qdr_xpb" nd:nd-id="example_eb3_qdr_xpb">
+            <p class="- topic/p ">You can create an account in Gmail if you need to send emails to other people as it's
+                one of the best email providers.</p>
+        </example>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_to_write_an_e_mail_in_gmail" oid="how_to_write_an_e_mail_in_gmail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to write an email</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to write an e-mail in Gmail.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_ak2_kxq_xpb" nd:nd-id="prereq_ak2_kxq_xpb">
+            <p class="- topic/p ">You will have to own a Gmail account, know how to work with an internet browser.</p>
+        </prereq>
+        <context class="- topic/section task/context "><p class="- topic/p ">You will learn how to create and send emails to the people you wish to
+                communicate with.</p><image class="- topic/image " href="file:/C:/Users/User/Desktop/GmailDocu/Untitled.png" id="unique_3_Connect_42_image_sb4_hwq_xpb" nd:nd-id="image_sb4_hwq_xpb" placement="inline"/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open Gmail </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">On the left, click on Compose</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) To change your window size, in the upper corner, click Maximize ""
+                    or Exit full screen .</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your message. Email you start writing but don't send are automatically
+                    saved in Drafts on the left..</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Optional) Add attachments, such as Drive files e using Drive or photos .</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click Send.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_hfx_zsq_xpb" nd:nd-id="result_hfx_zsq_xpb">
+            <p class="- topic/p ">You have successfully written and sent the mail.</p>
+        </result>
+        <example class="- topic/example " id="unique_3_Connect_42_example_vh2_xdr_xpb" nd:nd-id="example_vh2_xdr_xpb">
+            <p class="- topic/p ">You can send emails to communicate with friends or colleagues.</p>
+        </example>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_attach_a_file_in_your_mail" oid="how_to_attach_a_file_in_your_mail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to reply to an email</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to reply to an email.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_xkh_cyq_xpb" nd:nd-id="prereq_xkh_cyq_xpb">
+            <p class="- topic/p ">You need to have received an email from someone.</p>
+        </prereq>
+        <context class="- topic/section task/context "><p class="- topic/p ">You will learn how to reply to:</p><p class="- topic/p ">single email,  forward an email within a
+                thread, forward an entire conversation.</p><image class="- topic/image " href="file:/C:/Users/User/Desktop/GmailDocu/unnamed.png" id="unique_4_Connect_42_image_vlt_3wq_xpb" nd:nd-id="image_vlt_3wq_xpb" placement="inline"/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To reply to a single email or the last email in a thread, click Reply.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To reply to an email within a thread, click Reply. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To forward a single email or the last email in a thread, click Forward.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To forward an email within a thread, click More and then Forward.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To see previous email in a thread, click Show trimmed content.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To forward an entire conversation, at the top, click More eand then Forward
+                    all.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To use a Smart Reply, at the bottom of the email, click a suggested reply. You
+                    can then edit the email before sending it.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_mgn_rtq_xpb" nd:nd-id="result_mgn_rtq_xpb">
+            <p class="- topic/p ">Your reply was successful</p>
+        </result>
+        <example class="- topic/example " id="unique_4_Connect_42_example_mfy_p2r_xpb" nd:nd-id="example_mfy_p2r_xpb">
+            <p class="- topic/p ">You can reply to emails send from your friends or colleagues.</p>
+        </example>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_delete_mails_in_gmail" oid="how_to_delete_mails_in_gmail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to archive or delete emails </ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to delete or archive mails.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "><p class="- topic/p ">You will learn how to clean your inbox. </p><p class="- topic/p ">Now you will have a clearer view
+                of your desired mails.</p><p class="- topic/p ">Archived email move out of your inbox but stay under
+                All mail, so that you can find them later. Deleted email move to the Trash and get
+                permanently deleted after 30 days.</p><image class="- topic/image " href="file:/C:/Users/User/Desktop/GmailDocu/unnamed%20(1).png" id="unique_5_Connect_42_image_cwq_jwq_xpb" nd:nd-id="image_cwq_jwq_xpb" placement="inline"/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select one or more email.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the select box on the mail you wish to select</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">At the top, click Archive or Delete.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You can point to a single email and click Archive or Delete.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_5_Connect_42_result_hh4_txq_xpb" nd:nd-id="result_hh4_txq_xpb">
+            <p class="- topic/p ">You have successfully deleted and archived your desired mails. </p>
+        </result>
+        <example class="- topic/example " id="unique_5_Connect_42_example_c4k_t2r_xpb" nd:nd-id="example_c4k_t2r_xpb">
+            <p class="- topic/p ">You can clean your unwanted mail so that your inbox is not full.</p>
+        </example>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_manage_your_spam_folder_in_gmail" oid="how_to_manage_your_spam_folder_in_gmail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to find an email in your inbox</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to find the desired mail in your inbox.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_sxv_yzq_xpb" nd:nd-id="prereq_sxv_yzq_xpb">
+            <p class="- topic/p ">You need to know your search criteria.</p>
+        </prereq>
+        <context class="- topic/section task/context "><p class="- topic/p ">You will learn how to find the mail you have searched for.</p><image class="- topic/image " href="file:/C:/Users/User/Desktop/GmailDocu/unnamed%20(2).png" id="unique_6_Connect_42_image_mxn_swq_xpb" nd:nd-id="image_mxn_swq_xpb" placement="inline"/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open Gmail.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">At the top, in the search box, enter your search criteria.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press Enter.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_vll_yxq_xpb" nd:nd-id="result_vll_yxq_xpb">
+            <p class="- topic/p ">You have successfully found your desired mail.</p>
+        </result>
+        <example class="- topic/example " id="unique_6_Connect_42_example_d5g_dfr_xpb" nd:nd-id="example_d5g_dfr_xpb">
+            <p class="- topic/p ">You can search your inbox for wanted mails.</p>
+        </example>
+    </taskbody>
+</task></map>

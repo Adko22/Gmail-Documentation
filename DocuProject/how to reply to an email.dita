@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_attach_a_file_in_your_mail">
+    <title>How to reply to an email</title>
+    <shortdesc>Here you will learn how to reply to an email.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xkh_cyq_xpb">
+            <p>You need to have received an email from someone.</p>
+        </prereq>
+        <context><p>You will learn how to reply to:</p><p>single email,  forward an email within a
+                thread, forward an entire conversation.</p><image
+                href="file:/C:/Users/User/Desktop/GmailDocu/unnamed.png" id="image_vlt_3wq_xpb"
+            /></context>
+        <steps>
+            <step>
+                <cmd>To reply to a single email or the last email in a thread, click Reply.</cmd>
+            </step>
+            <step>
+                <cmd>To reply to an email within a thread, click Reply. </cmd>
+            </step>
+            <step>
+                <cmd>To forward a single email or the last email in a thread, click Forward.</cmd>
+            </step>
+            <step>
+                <cmd>To forward an email within a thread, click More and then Forward.</cmd>
+            </step>
+            <step>
+                <cmd>To see previous email in a thread, click Show trimmed content.</cmd>
+            </step>
+            <step>
+                <cmd>To forward an entire conversation, at the top, click More eand then Forward
+                    all.</cmd>
+            </step>
+            <step>
+                <cmd>To use a Smart Reply, at the bottom of the email, click a suggested reply. You
+                    can then edit the email before sending it.</cmd>
+            </step>
+        </steps>
+        <result id="result_mgn_rtq_xpb">
+            <p>Your reply was successful</p>
+        </result>
+        <example id="example_mfy_p2r_xpb">
+            <p>You can reply to emails send from your friends or colleagues.</p>
+        </example>
+    </taskbody>
+</task>
